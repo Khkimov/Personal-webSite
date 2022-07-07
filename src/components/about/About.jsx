@@ -1,7 +1,8 @@
 import React from 'react';
 import './About.css';
-import ME from '../../assets/I_am.jpeg';
+import ME from '../../assets/I-am.jpg';
 import { FaAward, FaUserGraduate } from 'react-icons/fa';
+import {GoLocation} from 'react-icons/go';
 
 function About() {
   return (
@@ -20,27 +21,25 @@ function About() {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Опыт</h5>
-              <small>1+ год Web-разработки</small>
+              <h5>Experience</h5>
+              <small>1+ Year Web-development</small>
             </article>
 
             <article className="about__card">
               <FaUserGraduate className="about__icon" />
-              <h5>Образование</h5>
-              <small>Высшее</small>
+              <h5>Education</h5>
+              <small>Bachelor</small>
             </article>
 
             <article className="about__card">
-              <FaAward className="about__icon" />
-              <h5>Курсы по программированию</h5>
-              <small>Основы WEB-разработки</small>
-              <small>Frontend-разработчик</small>
-              <small>Fullstack-разработчик</small>
+              <GoLocation className="about__icon" />
+              <h5>Location</h5>
+              <small>Russia, Chelyabinsk</small>
             </article>
           </div>
 
           <p>
-            Hi, my name is Ilyas! I am engaged in WEB development. I started with the layout of simple websites. 
+            Hi, my name is Ilyas! I am Fullstack Developer. I started with the layout of simple websites. 
             I became interested in programming and for this I started learning languages (JavaScript, Node.js ). 
             I have experience working in a team. I am constantly building up my programming skills.
           </p>

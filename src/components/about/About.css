@@ -16,6 +16,7 @@
 .about__me-image {
   border-radius: 2rem;
   overflow: hidden;
+  height: 60vh;
   transform: rotate(10deg);
   transition: var(--transition);
 }
@@ -91,8 +92,8 @@
   }
 
   .about__cards {
-    grid-template-columns: 1fr 1fr;
-    gap: 1rem;
+    display: flex;
+    flex-direction: column;
   }
 
   .about__content {
@@ -101,5 +102,9 @@
 
   .about__content p {
     margin: 1.5rem 0;
+  }
+
+  .about__me-image {
+    height: 40vh;
   }
 }
