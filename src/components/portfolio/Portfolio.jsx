@@ -16,10 +16,9 @@ function Portfolio() {
             <img src={Watch} alt="Watch" />
           </div>
 
-          <h3>portfolio title</h3>
+          <h3>Watch shop</h3>
           <div className="portfolio__item-cta">
-            <a href="#ff" className="btn" target="_blank">Github</a>
-            <a href="#ff" className="btn btn-primary" target="_blank">Github</a>
+            <a href="https://github.com/Khkimov/Watch-shop" className="btn" target="_blank" rel="noreferrer">Github</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -27,10 +26,9 @@ function Portfolio() {
             <img src={PlusKk} alt="Watch" />
           </div>
 
-          <h3>portfolio title</h3>
+          <h3>Plus k karme</h3>
           <div className="portfolio__item-cta">
-            <a href="#ff" className="btn" target="_blank">Github</a>
-            <a href="#ff" className="btn btn-primary" target="_blank">Github</a>
+            <a href="https://github.com/Khkimov/PlusKkarme" className="btn" target="_blank" rel="noreferrer">Github</a>
           </div>
         </article>
         <article className="portfolio__item">
@@ -38,10 +36,9 @@ function Portfolio() {
             <img src={Ascetic} alt="Watch" />
           </div>
 
-          <h3>portfolio title</h3>
+          <h3>Ascetic Lion</h3>
           <div className="portfolio__item-cta">
             <a href="#ff" className="btn" target="_blank">Github</a>
-            <a href="#ff" className="btn btn-primary" target="_blank">Github</a>
           </div>
         </article>
       </div>
