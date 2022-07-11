@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Personal-webSite/static/css/main.c09b516a.css",
+    "main.js": "/Personal-webSite/static/js/main.9c7bb36c.js",
+    "static/media/I-am.jpg": "/Personal-webSite/static/media/I-am.6472a6a326dd4b4fe237.jpg",
+    "static/media/watch-shop.png": "/Personal-webSite/static/media/watch-shop.8b31c8d3348f8f8614b2.png",
+    "static/media/Ascetic.png": "/Personal-webSite/static/media/Ascetic.e10130de5dc86e3e79a7.png",
+    "static/media/CV.pdf": "/Personal-webSite/static/media/CV.22cd9014ab57f6ff3eb7.pdf",
+    "static/media/PlusKk.png": "/Personal-webSite/static/media/PlusKk.1fc82d43e06bede83c38.png",
+    "static/media/fullstack.png": "/Personal-webSite/static/media/fullstack.3391574078898670ff94.png",
+    "index.html": "/Personal-webSite/index.html",
+    "main.c09b516a.css.map": "/Personal-webSite/static/css/main.c09b516a.css.map",
+    "main.9c7bb36c.js.map": "/Personal-webSite/static/js/main.9c7bb36c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c09b516a.css",
+    "static/js/main.9c7bb36c.js"
+  ]
+}
